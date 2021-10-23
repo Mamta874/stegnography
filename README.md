@@ -1,1 +1,1 @@
-# stegnography
+# stegnography-in-python
